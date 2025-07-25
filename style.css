@@ -1,0 +1,54 @@
+body {
+  font-family: 'Segoe UI', sans-serif;
+  margin: 0;
+  padding: 0;
+  background: #f4f4f4;
+  color: #333;
+}
+header {
+  background: #005A9C;
+  color: white;
+  padding: 2rem;
+  text-align: center;
+}
+header nav a {
+  color: white;
+  margin: 0 15px;
+  text-decoration: none;
+  font-weight: bold;
+}
+section {
+  padding: 2rem;
+  max-width: 900px;
+  margin: auto;
+}
+h2 {
+  color: #005A9C;
+}
+.skills span {
+  background: #0078D4;
+  color: white;
+  padding: 8px 12px;
+  margin: 5px;
+  display: inline-block;
+  border-radius: 5px;
+}
+.project {
+  background: white;
+  padding: 1rem;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0,0,0,0.05);
+  margin-bottom: 1rem;
+}
+footer {
+  background: #222;
+  color: white;
+  text-align: center;
+  padding: 1rem;
+}
+a {
+  color: #0078D4;
+}
+a:hover {
+  text-decoration: underline;
+}
